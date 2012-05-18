@@ -44,3 +44,4 @@ Ideas:
 - netchallonge
 - admin greier (oppdatere pilsprog.no/facebook/etc)
 - nilsquotes - random, date, etc
+- reallywhoami - stalker whoami (facebookprofil, etc)
