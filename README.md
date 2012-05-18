@@ -29,3 +29,18 @@ Roadmap:
 - lfg heroes
 - lfg login
 - goto: url
+
+-----
+
+Ideas:
+- quiz
+- games pinball,pacman,space invaders
+- promillekalkulator
+- hackertyper
+- kvarteret meny/ølmeny/priser
+- beermenu
+- pilsprog stats
+- pilsprog state
+- netchallonge
+- admin greier (oppdatere pilsprog.no/facebook/etc)
+- nilsquotes - random, date, etc
