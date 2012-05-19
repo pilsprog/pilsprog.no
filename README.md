@@ -45,3 +45,4 @@ Ideas:
 - admin greier (oppdatere pilsprog.no/facebook/etc)
 - nilsquotes - random, date, etc
 - reallywhoami - stalker whoami (facebookprofil, etc)
+- ascii art all over the place: https://github.com/Marak/asciimo
