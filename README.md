@@ -46,3 +46,4 @@ Ideas:
 - nilsquotes - random, date, etc
 - reallywhoami - stalker whoami (facebookprofil, etc)
 - ascii art all over the place: https://github.com/Marak/asciimo
+- Video streams of Pilsprog Talks (like google talk)
